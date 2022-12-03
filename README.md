@@ -1,4 +1,4 @@
-### <div align="center">🚀🚀DATA SCIENCE & AUTOMATION WHIZZ ✨🚀🚀
+### <div align="center">🚀🚀✨DATA SCIENCE & AUTOMATION WHIZZ ✨🚀🚀
   <br/>  
 
 <div id="header" align="center">
