@@ -4,13 +4,13 @@
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
-</div>  
-
+</div>
 ### <div align="center">🚀🚀DATA SCIENCE & AUTOMATION WHIZZ ✨🚀🚀
 
 I am <strong>Ellen</strong>, an experienced Data Scientist. I have 4 years of experience in Python and Data Science domains, including API Building, Data Sourcing, Data Engineering, Data Sourcing, Automation, and Machine Learning.
 
 👨‍💻 working remotely and traveling around 🚀🏝
+<br/>  
 On weekends, I love to do what I enjoy: Travel & Sightseeing 😎!</div>  
   
 
