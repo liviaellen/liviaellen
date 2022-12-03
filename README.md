@@ -37,7 +37,7 @@ On weekends, I love to do what I enjoy: Travel & Sightseeing 😎!</div>
 
 
 
-### Data Science & AI  
+### Data Science & Machine Learning
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
