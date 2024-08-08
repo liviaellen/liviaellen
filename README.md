@@ -20,13 +20,13 @@ On weekends, I love to do what I enjoy: Travel & Sightseeing 😎!</div>
 [Book a consultation here 😁](https://calendly.com/liviaellen/call?)  
   
 
-- 🌱 I’m currently teaching Data Science @ Le Wagon (Bali, Rio de Janeiro & Remote batch 🚌)  
+- 🌱 I’m currently teaching Data Science @ Le Wagon for Business acrooss the globe 🚌)  
   
 
 - ❓ Ask me about anything related to data science stack and augmented reality related technologies 👾  
   
 
-- ⚡ AR fact: I'm building  [Filterqu](https://filterqu.com/). We have developed 100+ Augmented Reality experience for brands which generated 1 Billion Impressions on Social Media.  
+- ⚡ AR fact: I'm building  [Filterqu](https://filterqu.com/). We have developed 100+ Augmented Reality experience for brands which generated more than 3 Billion Impressions on Social Media. [Portfolio](https://liviaellen.com/ar-profile) 
   
 
 <br/>  
