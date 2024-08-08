@@ -26,7 +26,7 @@ On weekends, I love to do what I enjoy: Travel & Sightseeing 😎!</div>
 - ❓ Ask me about anything related to data science stack and augmented reality related technologies 👾  
   
 
-- ⚡ AR fact: I'm building  [Filterqu](https://filterqu.com/). We have developed 100+ Augmented Reality experience for brands which generated more than 3 Billion Impressions on Social Media. [Portfolio](https://liviaellen.com/ar-profile) 
+- ⚡ AR fact: I'm building  [Filterqu](https://liviaellen.com/ar-profile). We have developed 100+ Augmented Reality experience for brands which generated more than 3 Billion Impressions on Social Media.
   
 
 <br/>  
