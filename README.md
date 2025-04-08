@@ -16,17 +16,16 @@ I am <strong>Ellen</strong>, an experienced Data Scientist. I have 6 years of ex
 On weekends, I love to do what I enjoy: Travel & Sightseeing 😎!</div>  
   
 
-- 🔭 I’m currently working as a freelance Data Scientist.
-[Book a consultation here 😁](https://calendly.com/liviaellen/call?)  
-  
+- 🔭 I’m currently working as a Machine Learning Engineer in CarIQ
 
-- 🌱 I’m currently teaching Data Science @ Le Wagon for Business acrooss the globe 🚌)  
-  
 
 - ❓ Ask me about anything related to data science stack and augmented reality related technologies 👾  
-  
+  [Book a consultation here 😁](https://calendly.com/liviaellen/call?)  
 
-- ⚡ AR fact: I'm building  [Filterqu](https://liviaellen.com/ar-profile). We have developed 100+ Augmented Reality experience for brands which generated more than 3 Billion Impressions on Social Media.
+Past experience:
+- 🌱 I taught Data Science @ Le Wagon for Business acrooss the globe 🚌)  
+  
+- ⚡ AR fact: I built  [Filterqu](https://liviaellen.com/ar-profile). We have developed 100+ Augmented Reality experience for brands which generated more than 3 Billion Impressions on Social Media.
   
 
 <br/>  
