@@ -16,15 +16,15 @@ I am <strong>Ellen</strong>, an experienced Data Scientist. I have 6 years of ex
 On weekends, I love to do what I enjoy: Travel & Sightseeing 😎!</div>  
   
 
-- 🔭 I’m currently working as a Machine Learning Engineer in CarIQ
+- 🔭 I’m currently working as a Machine Learning Engineer and OPEN for opportunities
 
 
 - ❓ Ask me about anything related to data science stack and augmented reality related technologies 👾  
   [Book a consultation here 😁](https://calendly.com/liviaellen/call?)  
 
 Past experience:
-- 🌱 I taught Data Science @ Le Wagon for Business across the globe 🚌)  , ML Engineer @ CarIQ (Fintech in SF), Data Scientist @ Schlumberger (oil & gas)
-- ⚡ AR fact: I built  [Filterqu](https://liviaellen.com/ar-profile). We have developed 100+ Augmented Reality experience for brands which generated more than 3 Billion Impressions on Social Media.
+- 🌱 I taught Data Science @ Le Wagon for Business across the globe 🚌)  , ML Engineer @ CarIQ (Fintech, SF), Data Scientist @ Schlumberger (oil & gas)
+- ⚡ AR fact: I built  [Filterqu](https://liviaellen.com/ar-profile). We have developed 100+ Augmented Reality experience for brands which generated more than 5 Billion Impressions on Social Media with 10M uses (organic).
 - I write tech blog and tutorials at [Towards Data Science](https://towardsdatascience.com/), [Python in Plain English](https://python.plainenglish.io/), and [Code Like a Girl](https://www.codelikeagirl.com/)
 <br/>  
 
