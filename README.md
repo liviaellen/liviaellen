@@ -23,10 +23,8 @@ On weekends, I love to do what I enjoy: Travel & Sightseeing 😎!</div>
   [Book a consultation here 😁](https://calendly.com/liviaellen/call?)  
 
 Past experience:
-- 🌱 I taught Data Science @ Le Wagon for Business acrooss the globe 🚌)  
-  
+- 🌱 I taught Data Science @ Le Wagon for Business across the globe 🚌)  , ML Engineer @ CarIQ (Fintech in SF), Data Scientist @ Schlumberger (oil & gas)
 - ⚡ AR fact: I built  [Filterqu](https://liviaellen.com/ar-profile). We have developed 100+ Augmented Reality experience for brands which generated more than 3 Billion Impressions on Social Media.
-  
 - I write tech blog and tutorials at [Towards Data Science](https://towardsdatascience.com/), [Python in Plain English](https://python.plainenglish.io/), and [Code Like a Girl](https://www.codelikeagirl.com/)
 <br/>  
 
