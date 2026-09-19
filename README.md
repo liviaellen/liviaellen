@@ -1,33 +1,30 @@
-### <div align="center">🚀🚀✨DATA SCIENCE & AUTOMATION WHIZZ ✨🚀🚀
-  <br/>  
+### <div align="center">🚀🚀✨ DATA SCIENCE, AI & AUTOMATION WHIZZ ✨🚀🚀
+<br/>
 
 <div id="header" align="center">
   <img src="http://liviaellen.com/wp-content/uploads/2022/12/girl-hacker.gif" width="100"/>
 </div>
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
+</div>
+I am <strong>Ellen</strong>, an AI Engineer and Data Scientist based in San Francisco. I have 6+ years of experience across Python, machine learning, data engineering, automation, API development, and data sourcing.
+🤿 I’m currently a <strong>Forward Deployed Engineer at Snorkel AI</strong>, working on coding-agent data, RL environments, evaluation benchmarks, and agent post-training.
+🌎 Outside work, love to travel —20+ countries and counting.
+
 </div>
 
+- 🔭 I’m currently building coding-agent benchmarks and RL environments at **Snorkel AI**
+- 🔬 Independent researcher exploring LLM personas, evaluation, and human–AI interaction
+- ❓ Ask me about anything related to AI engineering, data science, automation, or augmented-reality technologies 👾  
 
-I am <strong>Ellen</strong>, an experienced Data Scientist. I have 6 years of experience in Python and Data Science domains, including API Building, Data Sourcing, Data Engineering, Data Sourcing, Automation, and Machine Learning.
-
-👨‍💻 working remotely and traveling around 🚀🏝
-On weekends, I love to do what I enjoy: Travel & Sightseeing 😎!</div>  
-  
-
-- 🔭 I’m currently working as a Machine Learning Engineer and OPEN for opportunities
-
-
-- ❓ Ask me about anything related to data science stack and augmented reality related technologies 👾  
-  [Book a consultation here 😁](https://calendly.com/liviaellen/call?)  
 
 Past experience:
-- 🌱 I taught Data Science @ Le Wagon for Business across the globe 🚌)  , ML Engineer @ CarIQ (Fintech, SF), Data Scientist @ Schlumberger (oil & gas)
-- ⚡ AR fact: I built  [Filterqu](https://liviaellen.com/ar-profile). We have developed 100+ Augmented Reality experience for brands which generated more than 5 Billion Impressions on Social Media with 10M uses (organic).
-- I write tech blog and tutorials at [Towards Data Science](https://towardsdatascience.com/), [Python in Plain English](https://python.plainenglish.io/), and [Code Like a Girl](https://www.codelikeagirl.com/)
-<br/>  
-
+- 🧠 Growth & AI Engineer at **Mem0/Embedchain**, working on developer-facing AI memory infrastructure and open-source growth
+- 🌱 I taught Data Science at **Le Wagon for Business** across the globe, worked as a Machine Learning Engineer at **Car IQ** in fintech, and as a Data Scientist at **Schlumberger** in oil and gas
+- ⚡ AR fact: I built [Filterqu](https://liviaellen.com/ar-profile). We developed 100+ augmented-reality experiences for brands, generating more than **5 billion social-media impressions** and **10 million organic uses**
+- ✍️ I write technical blogs and tutorials for [Towards Data Science](https://towardsdatascience.com/), [Python in Plain English](https://python.plainenglish.io/), and [Code Like a Girl](https://www.codelikeagirl.com/)
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
